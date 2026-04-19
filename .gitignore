@@ -1,0 +1,13 @@
+# Power BI temp / cache files
+*.pbix~
+*.tmp
+
+# Logs
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Excel temp files
+~$*.xlsx
